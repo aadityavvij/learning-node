@@ -7,6 +7,9 @@
 // global dependency - use it in any project
 // npm install -g <packageName>
 
+// Dev dependency - packages you require in the development phase of your project and not in the production or testing environments
+// npm install <packageName> -D
+
 // package.json - manifest file (stores important info about projects/package)
 // manual approach (create package.json in the root, create properties etc.)
 // npm init (step by step, press enter to skip)
